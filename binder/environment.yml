@@ -1,0 +1,19 @@
+channels:
+  - conda-forge
+dependencies:
+  - fsspec
+  - hvplot
+  - holoviews
+  - panel
+  - datashader
+  - geoviews
+  - ipykernel
+  - xarray
+  - zarr
+  - netcdf4
+  - intake
+  - intake-xarray
+  - metpy
+  - requests
+  - jupyter-panel-proxy
+  - nbgitpuller
